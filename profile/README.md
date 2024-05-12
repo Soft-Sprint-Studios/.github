@@ -16,7 +16,7 @@ Flexible Architecture: With a modular and flexible architecture inherited from P
 
 Windows Support: Built specifically for the Windows platform, Parallax Engine leverages the latest technologies to deliver high-performance gaming experiences on PC.
 
-As of now, Parallax Engine is closed-source, Altough we are willing to release some of the tools we make, and potential licensing options.
+As of now, Parallax Engine is closed-source, Altough we are willing to release some of the tools we make, and potential licensing options for the engine itself.
 
 To explore the original Pathos Engine repository, visit Pathos Engine At https://github.com/TheOverfloater/pathos-public.
 
