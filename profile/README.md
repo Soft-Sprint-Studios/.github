@@ -21,8 +21,12 @@ As of now, Parallax Engine is closed-source, with plans for future development a
 To explore the original Pathos Engine repository, visit Pathos Engine At https://github.com/TheOverfloater/pathos-public.
 
 Contact Us
+
 Email: Mythic-Legend-Interactive-Contact@protonmail.com
+
 Twitter: @DaRealMLI
+
 GitHub: https://github.com/Mythic-Legend-Interactive
+
 
 Copyright © 2024 Mythic Legend Interactive. All rights reserved.
