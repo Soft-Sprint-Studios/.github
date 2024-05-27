@@ -1,6 +1,6 @@
 About Us
 
-At Mythic Legend Interactive, we are committed to crafting captivating games that transport players to fantastical worlds and ignite their imaginations. With a team of two dedicated individuals one Programmer/Level Editor the other mostly Story/Idea maker, we blend creativity, technical expertise, and a love for gaming to bring our visions to life.
+At SoftSprint Studios, we are committed to crafting captivating games that transport players to fantastical worlds and ignite their imaginations. With a team of two dedicated individuals one Programmer/Level Editor the other mostly Story/Idea maker, we blend creativity, technical expertise, and a love for gaming to bring our visions to life.
 
 Parallax Engine
 
@@ -20,4 +20,4 @@ As of now, Parallax Engine is closed-source, Altough we are willing to release s
 
 To explore the original Pathos Engine repository, visit Pathos Engine At https://github.com/TheOverfloater/pathos-public.
 
-Copyright © 2024 Mythic Legend Interactive. All rights reserved.
+Copyright © 2024 SoftSprint Studios. All rights reserved.
