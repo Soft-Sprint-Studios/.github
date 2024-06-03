@@ -4,11 +4,11 @@ At SoftSprint Studios, we are committed to crafting captivating games that trans
 
 Parallax Engine
 
-Parallax Engine is the cornerstone of our development efforts, serving as the backbone of our projects. It is a forked version of the Pathos Engine, an open-source project released under the MIT license. Developed exclusively for the Windows platform, Parallax Engine empowers developers to unleash their creativity and bring their game ideas to fruition.
+Parallax Engine is the cornerstone of our development efforts, serving as the backbone of our projects. It is a forked/branch version of the Pathos Engine, which itself is an open-source project released under the MIT license. Developed exclusively for the Windows platform, Parallax Engine empowers developers to unleash their creativity and bring their game ideas to fruition.
 
 Key Features
 
-Powerful Rendering: Immerse yourself in captivating worlds with Parallax Engine's rendering capabilities designed to create immersive environments, The graphical improvments are already promissing seeing features like 2 Blended Textures,Bloom,Vignetting,Chromatic Abberation and soon more to create engaging gameplay experiences.
+Powerful Rendering: Immerse yourself in captivating worlds with Parallax Engine's rendering capabilities designed to create immersive environments, The graphical improvments are already promissing seeing features like Bloom,Vignetting,Chromatic Abberation,Tonemapping and soon more to create engaging gameplay experiences.
 
 Intuitive Tools: Streamline your development process with Parallax Engine's intuitive tools and editor, enabling rapid prototyping and seamless iteration.
 
