@@ -18,6 +18,9 @@ Windows Support: Built specifically for the Windows platform, Parallax Engine le
 
 As of now, Parallax Engine is closed-source, Altough we are willing to release some of the tools we make, and potential licensing options for the engine itself.
 
+#Licensing
+We will license out the engine to other devs, You need to contact us, as of now its unsure weather it will be payment or free but you will have to not release any code, Licensing the engine will provide you with our modified level editor called ParallaxED based on hammertime, The parallaxengine itself based on pathos and modified tools coming with it
+
 To explore the original Pathos Engine repository, visit Pathos Engine At https://github.com/TheOverfloater/pathos-public.
 
 Copyright © 2024 SoftSprint Studios. All rights reserved.
