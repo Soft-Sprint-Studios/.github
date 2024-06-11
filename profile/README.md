@@ -8,7 +8,7 @@ Parallax Engine is the cornerstone of our development efforts, serving as the ba
 
 # Key Features
 
-Powerful Rendering: Immerse yourself in captivating worlds with Parallax Engine's rendering capabilities designed to create immersive environments, The graphical improvments are already promissing seeing features like Bloom,Vignetting,Chromatic Abberation,Tonemapping and soon more to create engaging gameplay experiences.
+Powerful Rendering: Immerse yourself in captivating worlds with Parallax Engine's rendering capabilities designed to create immersive environments, The graphical improvments are already promissing seeing features like Two Blended Textures Bloom,Vignetting,Chromatic Abberation,Tonemapping and soon more to create engaging gameplay experiences.
 
 Intuitive Tools: Streamline your development process with Parallax Engine's intuitive tools and editor, enabling rapid prototyping and seamless iteration.
 
