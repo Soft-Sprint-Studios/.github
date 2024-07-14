@@ -18,4 +18,8 @@ Windows Support: Built specifically for the Windows platform, Parallax Engine le
 
 To explore the original Pathos Engine repository, visit Pathos Engine At https://github.com/TheOverfloater/pathos-public.
 
+# Legal
+
+Unfortunately since both of our owners are teenagers we arent registered as an LLC or any other legal entity, However when we are 18 we will most likely sign as LLC
+
 Copyright © 2024 SoftSprint Studios. All rights reserved.
