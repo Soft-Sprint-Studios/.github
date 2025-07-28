@@ -1,10 +1,10 @@
 About Us
 
-At SoftSprint Studios, we are committed to crafting captivating games that transport players to fantastical worlds and ignite their imaginations. With a team of two dedicated individuals one Programmer/Level Editor the other mostly Story/Idea maker, we blend creativity, technical expertise, and a love for gaming to bring our visions to life.
+At SoftSprint Studios, we are committed to crafting captivating games that transport players to fantastical worlds and ignite their imaginations.
 
 # Engine
 
-We were previously using the 'Pathos' Engine, however we changed to "Pragma Engine" as it is more modern, closer to source 2  and better in general, Our modified pathos, named "Matrix engine" is still available but obsolete
+We are writing our own game engine, the Tectonic Engine, open source under the MIT license
 
 # Legal
 
