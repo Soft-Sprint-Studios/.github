@@ -4,7 +4,7 @@ At SoftSprint Studios, we are committed to crafting captivating games that trans
 
 # Engine
 
-We are writing our own game engine, the Tectonic Engine, open source under the MIT license.
+We are writing our own game engine, Matrix Engine 2, open source under the MIT license.
 
 # Legal
 
