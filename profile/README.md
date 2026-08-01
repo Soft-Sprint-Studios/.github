@@ -1,4 +1,4 @@
-About Us
+# About Us
 
 At SoftSprint Studios, we are committed to crafting captivating games that transport players to fantastical worlds and ignite their imaginations.
 
